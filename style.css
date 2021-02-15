@@ -1,0 +1,46 @@
+body {
+    background-color: black;
+    color: white;
+    margin: auto;
+    width: 50%;
+}
+
+/* Remove underlines from links. */
+
+a {
+    text-decoration: none;
+}
+
+a:link, a:visited {
+    background-color: #008037;
+    color: white;
+    padding: 10px 10px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    background-color: #004007;
+    color: white;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+}
+
+.center {
+    text-align: center;
+}
+
+video {
+    margin: auto;
+    width: 300px;
+    height: 300px;
+}
