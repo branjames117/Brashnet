@@ -5,4 +5,6 @@ It was a good chance to brush up on HTML and CSS, and to get familiar with pushi
 
 Workflow:
 1) Create changes to project files in /brashnet on local machine.
-2) In Terminal, git commit -m "Comment" then git push
+2) In Terminal, git commit -m "Comment" then git push.
+3) SSH'd into my webserver, git clone github.com/branjames117/brashnet for the first time.
+4) After, git pull.
