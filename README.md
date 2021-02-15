@@ -7,6 +7,6 @@ Workflow:
 1) Create changes to project files in /brashnet on local machine.
 2) In Terminal, git commit -m "Comment" then git push.
 3) SSH'd into my webserver, git clone github.com/branjames117/brashnet for the first time.
-4) After, git pull github.com/branjames117/brashnet.
+4) After, git pull github.com/branjames117/brashnet to download changes. Can also git push if I want to dev from my server.
 
 Still need to understand branching better.
