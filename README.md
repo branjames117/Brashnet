@@ -10,3 +10,5 @@ Workflow:
 4) After, git pull github.com/branjames117/brashnet to download changes. Can also git push if I want to dev from my server.
 
 Still need to understand branching better.
+
+Test 2 after 2FA.
